@@ -1,0 +1,11 @@
+{
+  "Header": {
+    "name": "Samuele Ceol",
+    "Navbar": {
+      "home": "Homepage",
+      "photos": "My photos",
+      "about": "About this site"
+    }
+  },
+  "NoMatch": "404 - Page not found"
+}
